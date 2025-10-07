@@ -1,6 +1,6 @@
 # Tech Challenge da instituição FIAP para o curso pós-graduação em Arquitetura e Desenvolvimento Java
 
-### 📄 [Documentação Oficial do Desafio](https://docs.google.com/document/d/1-tYWdBCnAFoLgNF_DnMFL9FFcWXoOvRZiMLU4fICVM4)
+### 📄 [Documentação Oficial do Desafio](https://docs.google.com/document/d/1LZfZphp6Vos4ZGavDyyqYqHS7GNlGZgaB5LswrdoGks/edit?usp=sharing)
 ### 🎥 Vídeo - [URL](https://youtu.be/UPL4BdbI6HY) 
 
 ## Arquitetura de Microsserviços - Gerenciamento de agendamento de consultas hospitalar
