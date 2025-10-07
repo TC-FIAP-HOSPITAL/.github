@@ -60,7 +60,7 @@ Ambos os microsserviços foram implementados com a linguagem **Java 21**, utiliz
 
 ### 📊 Diagrama da Arquitetura
 
-![Diagrama da Arquitetura](../imagens/diagrama-arquitetura.png)
+![Diagrama da Arquitetura](../imagens/diagrama-arquitetura.svg)
 
 ---
 
